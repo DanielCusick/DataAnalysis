@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is Dan Cusick. I am interested in economics and health care.
-### R Projects in this Repository can be viewed on [RPubs](https://www.rpubs.com/DanielCusick/). 
+### Also check out R Projects on [**RPubs**](https://www.rpubs.com/DanielCusick/). 
 
 <!--
 **DanielCusick/DanielCusick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
