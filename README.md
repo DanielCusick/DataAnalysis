@@ -1,5 +1,12 @@
 ### Hi there 👋 my name is Dan Cusick. I am interested in economics and health care.
-### Also check out R Projects on [**RPubs**](https://www.rpubs.com/DanielCusick/). 
+
+* **Dengue_Fever_Forecasting** Public Health forecasting in R 
+* **Part_Time_Work_Census_Analysis** Labor Market Analysis in R
+* **Google_Vision.ipynb** trying out Google Vision API tool in Jupyter notebook
+* **Retirement Income.ipynb** Financial projections in Python
+
+### Also check out health policy analysis in the [**HealthyNations Repository**](https://github.com/DanielCusick/HealthyNations)
+
 
 <!--
 **DanielCusick/DanielCusick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
