@@ -1,8 +1,11 @@
 ### Hi there 👋 my name is Dan Cusick. I am interested in economics and health care.
 
-* **Dengue_Fever_Forecasting** Public Health forecasting R script 
-* **Part_Time_Work_Census_Analysis** Labor Market analysis in R
 * **Google_Vision.ipynb** trying out Google Vision API tool in Jupyter notebook
+* **Part-Time-IPUMS-Analysis.md** Labor Market analysis in R
+  * Markdown images stored under **Part-Time-IPUMS-Analysis_files** folder
+* **Predicting Dengue Fever.R** Public Health forecasting R script
+  * Ranked in the 74th percentile (1575 of 6261) of [DrivenData.org DengAI: Predicting Disease Spread competition](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/leaderboard/
+) as of February 2025
 * **Retirement Income.ipynb** Financial projections in Python
 
 ### Also check out health policy analysis in the [**HealthyNations Repository**](https://github.com/DanielCusick/HealthyNations)
